@@ -1,11 +1,1 @@
- Volume in drive C is Windows-SSD
- Volume Serial Number is 4C66-8FEC
-
- Directory of C:\Users\gaurav\Desktop\my_git_project
-
-06-09-2022  10:09    <DIR>          .
-06-09-2022  10:03    <DIR>          ..
-06-09-2022  10:09    <DIR>          .git
-06-09-2022  10:09                 0 test.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  87,780,442,112 bytes free
+added entry in file
